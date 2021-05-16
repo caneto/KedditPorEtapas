@@ -3,7 +3,7 @@
 Um pequeno cliente Reddit Android desenvolvido com Kotlin
 
 ## Tutorial
-https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+https://capsistema.com.br/index.php/2021/05/16/keddit-introducao-aprenda-kotlin-enquanto-desenvolve-um-aplicativo-android/
 
 ## Libraries used:
 - Retrofit 2.0
